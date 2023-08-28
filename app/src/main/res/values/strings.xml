@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calender</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="sunday">SUN</string>
+    <string name="monday">MON</string>
+    <string name="tuesday">TUE</string>
+    <string name="wednesday">WED</string>
+    <string name="thursday">THUR</string>
+    <string name="friday">FRI</string>
+    <string name="saturday">SAT</string>
+    <string name="name">Name</string>
+    <string name="new_task">New Task</string>
+    <string name="enter_task">Enter task</string>
+</resources>
